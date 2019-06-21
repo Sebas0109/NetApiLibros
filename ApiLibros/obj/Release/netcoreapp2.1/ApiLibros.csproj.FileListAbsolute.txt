@@ -1,0 +1,15 @@
+C:\Users\sebas\source\repos\ApiLibrosDB\ApiLibros\obj\Release\netcoreapp2.1\ApiLibros.csprojAssemblyReference.cache
+C:\Users\sebas\source\repos\ApiLibrosDB\ApiLibros\obj\Release\netcoreapp2.1\ApiLibros.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\ApiLibrosDB\ApiLibros\obj\Release\netcoreapp2.1\ApiLibros.RazorAssemblyInfo.cache
+C:\Users\sebas\source\repos\ApiLibrosDB\ApiLibros\bin\Release\netcoreapp2.1\ApiLibros.deps.json
+C:\Users\sebas\source\repos\ApiLibrosDB\ApiLibros\bin\Release\netcoreapp2.1\ApiLibros.runtimeconfig.json
+C:\Users\sebas\source\repos\ApiLibrosDB\ApiLibros\bin\Release\netcoreapp2.1\ApiLibros.runtimeconfig.dev.json
+C:\Users\sebas\source\repos\ApiLibrosDB\ApiLibros\bin\Release\netcoreapp2.1\ApiLibros.dll
+C:\Users\sebas\source\repos\ApiLibrosDB\ApiLibros\bin\Release\netcoreapp2.1\ApiLibros.pdb
+C:\Users\sebas\source\repos\ApiLibrosDB\ApiLibros\obj\Release\netcoreapp2.1\ApiLibros.RazorAssemblyInfo.cs
+C:\Users\sebas\source\repos\ApiLibrosDB\ApiLibros\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\sebas\source\repos\ApiLibrosDB\ApiLibros\obj\Release\netcoreapp2.1\ApiLibros.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\ApiLibrosDB\ApiLibros\obj\Release\netcoreapp2.1\ApiLibros.AssemblyInfo.cs
+C:\Users\sebas\source\repos\ApiLibrosDB\ApiLibros\obj\Release\netcoreapp2.1\ApiLibros.RazorTargetAssemblyInfo.cache
+C:\Users\sebas\source\repos\ApiLibrosDB\ApiLibros\obj\Release\netcoreapp2.1\ApiLibros.dll
+C:\Users\sebas\source\repos\ApiLibrosDB\ApiLibros\obj\Release\netcoreapp2.1\ApiLibros.pdb
